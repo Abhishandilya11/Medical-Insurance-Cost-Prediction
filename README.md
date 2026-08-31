@@ -1,2 +1,2 @@
 # Medical-Insurance-Cost-Prediction
-In this project, I used a dataset including health-related information for individuals (age, BMI, smoking status, number of dependents, and so on) to estimate insurance prices using several machine learning algorithms. The goal was to identify the primary causes of these expenditures and create a reliable, scalable prediction model.
+In this project, I explored a dataset containing health-related information for individuals (age, BMI, smoking status, number of dependents, etc.) to predict insurance costs using various machine learning techniques. The goal was to identify key drivers behind these costs and develop a robust, scalable prediction model.
